@@ -64,7 +64,7 @@
 
 <h2>Contact Information</h2>
 
-<p>For further details, Mail to <h5>Arindam Pratap at <code>23f3003729@ds.study.iitm.ac.in</code></h5>.<h5>Student@IITM ></p>
+<p>For further details, Mail to <h5>Arindam Pratap at <code>23f3003729@ds.study.iitm.ac.in</code></h5>.<h5>Student@IIT-Madras ></p>
 <hr />
 
 <h2>Copyright Statement</h2>
